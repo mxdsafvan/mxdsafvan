@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm @mxdsafvan 👋</h1>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;NLP+%26+Computer+Vision+Explorer;Deep+Learning+Enthusiast" />
+</h3>
 <h3 align="center">
   Computer Vision & Machine Learning Projects
 </h3>
